@@ -3,9 +3,6 @@
   "type": "module",
   "version": "1.0.0",
   "description": "Ecommerce Backend using Expressjs",
-  "engines": {
-    "node": "16.15.1"
-  },
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
